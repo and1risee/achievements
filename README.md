@@ -1,4 +1,4 @@
-<h1 align="center">
+[code-1.md](https://github.com/user-attachments/files/34202671/code-1.md)[U<h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+and1risee+%F0%9F%91%8B;AI+%2F+ML+Developer;Building+the+future%2C+one+model+at+a+time" alt="Typing SVG" />
 </h1>
 
@@ -30,32 +30,32 @@ the intersection of **artificial intelligence**, **software engineering**, and
 
 ## 🧠 Tech Stack
 
-### 💻 Languages
+<h3 align="center">💻 Languages</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,ts,cpp,java&perline=5" />
 </p>
 
-### 🌐 Frontend
+<h3 align="center">🌐 Frontend</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,react,tailwind&perline=4" />
 </p>
 
-### ⚙️ Backend
+<h3 align="center">⚙️ Backend</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=fastapi,django,nodejs,express&perline=4" />
 </p>
 
-### 🤖 AI & Machine Learning
+<h3 align="center">🤖 AI & Machine Learning</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&perline=3" />
 </p>
 
-### 🗄️ Databases
+<h3 align="center">🗄️ Databases</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite&perline=4" />
 </p>
 
-### 🛠️ Tools & Environment
+<h3 align="center">🛠️ Tools & Environment</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,docker,linux,postman&perline=7" />
 </p>
@@ -73,4 +73,4 @@ class Developer:
 
     def daily(self):
         return "Learn 📚 → Build 🔨 → Improve 🚀"
-
+ploading code-1.md…]()
