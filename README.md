@@ -1,4 +1,4 @@
-[code-1.md](https://github.com/user-attachments/files/34202671/code-1.md)[U<h1 align="center">
+<h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+and1risee+%F0%9F%91%8B;AI+%2F+ML+Developer;Building+the+future%2C+one+model+at+a+time" alt="Typing SVG" />
 </h1>
 
@@ -22,7 +22,7 @@ the intersection of **artificial intelligence**, **software engineering**, and
 
 - 🤖 Deep-diving into **AI, Machine Learning & Automation**
 - 🌐 Crafting modern experiences with **Web Development**
-- 🎮 Experimenting with **Game Development** for fun & logic
+- 🎮 Experiment for fun & logic
 - 🛠️ Learning by **building** — every project makes me stronger
 - 🎯 Mission: build a **powerful portfolio** and grow into a top-tier engineer
 
@@ -64,7 +64,8 @@ the intersection of **artificial intelligence**, **software engineering**, and
 
 ## 🌱 Current Focus
 
-```python
+<pre align="center">
+<code>
 class Developer:
     def __init__(self):
         self.name = "and1risee"
@@ -73,4 +74,26 @@ class Developer:
 
     def daily(self):
         return "Learn 📚 → Build 🔨 → Improve 🚀"
-ploading code-1.md…]()
+</code>
+</pre>
+
+<br>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=and1risee&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=and1risee&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<br>
+
+---
+
+<h3 align="center">
+  <i>"Teach machines to learn. Teach yourself to think."</i>
+</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=and1risee&color=00D9FF&style=flat-square&label=Visitors" />
+</p>
