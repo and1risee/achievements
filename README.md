@@ -19,7 +19,7 @@
 
 ## 🧭 About Me
 
-```python
+
 class Developer:
     name     = "and1risee"
     role     = "AI / ML Developer"
